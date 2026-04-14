@@ -126,7 +126,7 @@ Prefijo: !clm
 ### 1 — Clonar
 
 ```bash
-git clone https://github.com/Borde00/credential-leak-monitor.git
+git clone https://github.com/Borde00/CredLeakMonitor.git
 cd credential-leak-monitor
 ```
 
