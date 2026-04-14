@@ -174,8 +174,8 @@ Deberías ver en consola:
 
 ```
 =======================================================
-  🔐 Credential Leak Monitor v4
-  Bot: CredLeakMonitor#3607 | Servidores: 1
+  🔐 Credential Leak Monitor
+  Bot: CredLeakMonitor | Servidores: 1
 ─────────────────────────────────────────────────────
   HIBP Password:   ✅ Gratis (k-anon)
   HIBP Email:      ✅
