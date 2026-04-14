@@ -370,8 +370,6 @@ Distribuido bajo licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para m
 
 <div align="center">
 
-Hecho con ❤️ para la comunidad de ciberseguridad
-
 Si este proyecto te ha sido útil, dale una ⭐
 
 </div>
