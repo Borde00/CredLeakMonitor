@@ -310,23 +310,6 @@ El informe incluye:
 
 ---
 
-## 📁 Estructura del proyecto
-
-```
-credential-leak-monitor/
-│
-├── 📄 bot.py               # Bot principal (~1200 líneas)
-├── 📄 requirements.txt     # discord.py · aiohttp · python-dotenv
-├── 📄 .env.example         # Plantilla de variables de entorno
-├── 📄 .env                 # Tu configuración local (⚠️ no subir a Git)
-├── 📄 docker-compose.yml   # Despliegue con Docker
-├── 📄 Dockerfile
-├── 📄 bot.log              # Logs rotativos (generado automáticamente)
-└── 📄 README.md
-```
-
----
-
 ## 🐛 Solución de problemas
 
 | Error | Causa | Solución |
