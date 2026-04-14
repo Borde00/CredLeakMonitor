@@ -124,7 +124,7 @@ Prefijo: !clm
 ### 1 — Clonar
 
 ```bash
-git clone https://github.com/TU-USUARIO/credential-leak-monitor.git
+git clone https://github.com/Borde00/credential-leak-monitor.git
 cd credential-leak-monitor
 ```
 
@@ -204,7 +204,7 @@ DISCORD_TOKEN=tu_token_aqui
 
 # ── GRATIS CON KEY ───────────────────────────────────
 # Key test gratis ya incluida (funciona al instante):
-HIBP_API_KEY=00000000000000000000000000000000
+HIBP_API_KEY=
 
 # Registro gratis → https://xposedornot.com/api_management
 XPOSEDORNOT_KEY=
@@ -284,7 +284,7 @@ Lo mismo aplica con **SHA3-Keccak-512** (primeros 10 chars) para XposedOrNot.
 ### Otras medidas de seguridad
 
 - 🗑️ Mensajes con contraseñas **eliminados automáticamente** del canal
-- 👁️ Emails mostrados **enmascarados** en las respuestas (`b*****n@gmail.com`)
+- 👁️ Emails mostrados **enmascarados** en las respuestas (`******n@gmail.com`)
 - ⏱️ **Cooldowns por usuario** para evitar abuso de rate limits
 - 🔄 Todas las consultas en **paralelo** — sin guardar histórico de búsquedas
 
@@ -353,7 +353,6 @@ Get-Content bot.log -Wait
 
 ## 🗺️ Roadmap
 
-- [ ] `!clm monitor <email>` — alertas automáticas ante nuevas brechas
 - [ ] Soporte completo para SpyCloud Enterprise
 - [ ] Exportación de informes en PDF
 - [ ] Dashboard web con historial de consultas
@@ -369,7 +368,4 @@ Distribuido bajo licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para m
 ---
 
 <div align="center">
-
-Si este proyecto te ha sido útil, dale una ⭐
-
 </div>
